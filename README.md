@@ -1,4 +1,4 @@
-![](https://github.com/marcelodebittencourt/js_unit_test_jest/workflows/CI/badge.svg)
+![](https://github.com/marcelodebittencourt/js_unit_test_jest/workflows/tests/badge.svg)
 
 # Source
 Code extracted from Jest documentation: https://jestjs.io/docs/getting-started
